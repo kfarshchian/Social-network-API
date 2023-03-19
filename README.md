@@ -36,6 +36,6 @@
   ## Questions
   If you would like to ask me any questions. Contact me at my email address below or you can check out my Github profile.
   - Email - kfarshchian@gmail.com
-  - Github user name - kfarshchian
+  - Github user name - https://github.com/kfarshchian
   
   
