@@ -32,7 +32,8 @@
  
   
   ## Credits
-  N/A
+  Section 20 Mini project and assignment 26 source code. 
+  Help From TAs and Cornelius Davis and Gustavo Carillo
 
   ## Tests
   All routes, models, and controllers have been tested and proven to work. Please see the video above to show how they work. 
