@@ -27,7 +27,7 @@
   
   Please see the video below on how the server works with API calls. 
   
-  <iframe src="https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview" width="640" height="480"></iframe>
+https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview
   
   ## Credits
   N/A
