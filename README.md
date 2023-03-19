@@ -21,7 +21,8 @@
   express and mongo db
 
   ## Usage
-  ![alttext](./assets/images/{add name of picture here})
+  ![alttext](./assets/images/site1.png)
+  ![alttext](./assets/images/site2.png)
   social media server
   
   ## Credits
