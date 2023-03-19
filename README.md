@@ -6,7 +6,7 @@
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
   ## Description
-  add friends and thoughts and reactions
+  This project is a Social Media API server running with MongoDB and Express. You can make calls to the server through two routes. The first route is the User route and you can use it to find, update, create, and delete users. This route also handles friend requests and keeps count of the number of friends a user has. The second route is the thought route. It keeps track of the users post or in this case their thoughts you can do all of the same things on this route as the User route but for the thoughts. Instead of keeping track of the friend count it keeps track of the reactions count on the users thoughts.
 
   ## Table of Contents
   - [License](#License)
@@ -18,18 +18,20 @@
   - [Questions](#Questions)
   
   ## Installation
-  express and mongo db
+  - npm install express
+  - npm install mongodb
 
   ## Usage
   ![alttext](./assets/images/site1.png)
   ![alttext](./assets/images/site2.png)
-  social media server
+  
+  Please see the video below on how the server works with API calls. 
   
   ## Credits
   N/A
 
   ## Tests
-  Tested all routes models
+  All routes, models, and controllers have been tested and proven to work. Please see the video above to show how they work. 
 
   ## Questions
   If you would like to ask me any questions. Contact me at my email address below or you can check out my Github profile.
