@@ -70,5 +70,17 @@ module.exports = {
         })
         .catch((err) => res.json(err));
     },
+    //Update user
+    updateUser({ params, body }, res) {
+    User.findOneAndUpdate({ _id: params.id }, body, { new: true, runValidators: true })
+      .then(user => {
+        if (!user) {
+          res.status(404).json({ message: 'No user found with this id!' });
+          return;
+        }
+        res.json(user);
+      })
+      .catch(err => res.json(err));
+  },
 };
 
