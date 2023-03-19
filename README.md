@@ -27,8 +27,7 @@
   
   Please see the video below on how the server works with API calls. 
   
-  [Social media API](https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview)
-  ![caption](https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview)
+  [Click Here for Video of Social media API](https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview)
   
   ## Credits
   N/A
