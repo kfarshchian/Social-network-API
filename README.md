@@ -27,7 +27,7 @@
   
   Please see the video below on how the server works with API calls. 
   
-https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview
+  ![caption](https://drive.google.com/file/d/1-L53pBYE69VS1Nr6JP3hSgorYlAfLYn9/preview)
   
   ## Credits
   N/A
